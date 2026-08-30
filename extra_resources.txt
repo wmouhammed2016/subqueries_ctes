@@ -1,0 +1,5 @@
+Correlated SubQueries
+https://www.youtube.com/watch?v=tvBp81WVrCA&list=PLNcg_FV9n7qZY_2eAtUzEUulNjTJREhQe&index=28&t=3385s
+
+Recursive CTEs
+https://www.youtube.com/watch?v=5x1uodxEIaM&list=PLNcg_FV9n7qZY_2eAtUzEUulNjTJREhQe&index=29&t=2846s

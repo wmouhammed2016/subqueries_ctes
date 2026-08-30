@@ -1,3 +1,4 @@
 # Ignoring the transcriptions
 *.txt
 !SQL-S13.txt
+!extra_resources.txt
