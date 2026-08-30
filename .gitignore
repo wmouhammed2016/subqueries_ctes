@@ -1,0 +1,3 @@
+# Ignoring the transcriptions
+*.txt
+!SQL-S13.txt
